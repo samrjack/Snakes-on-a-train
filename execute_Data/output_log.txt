@@ -1,0 +1,53 @@
+Mono path[0] = 'C:/Users/Public/Documents/Unity Projects/Snakes on a Train 1/execute_Data/Managed'
+Mono path[1] = 'C:/Users/Public/Documents/Unity Projects/Snakes on a Train 1/execute_Data/Mono'
+Mono config path = 'C:/Users/Public/Documents/Unity Projects/Snakes on a Train 1/execute_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Public/Documents/Unity Projects/Snakes on a Train 1/execute_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55248
+Multi-casting "[IP] 0.0.0.0 [Port] 55248 [Flags] 2 [Guid] 1391876788 [EditorId] 1189635 [Version] 1048832 [Id] WindowsPlayer(LAPTOP-A4U4FGR3) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55248]
+PlayerConnection already initialized - listening to [0.0.0.0:55248]
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 965M (ID=0x1427)
+    Vendor:   NVIDIA
+    VRAM:     4062 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Snakes on a Train 1\execute_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Snakes on a Train 1\execute_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Snakes on a Train 1\execute_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Snakes on a Train 1\execute_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Snakes on a Train 1\execute_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Snakes on a Train 1\execute_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Snakes on a Train 1\execute_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Snakes on a Train 1\execute_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Snakes on a Train 1\execute_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Snakes on a Train 1\execute_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Snakes on a Train 1\execute_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Snakes on a Train 1\execute_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.072 seconds
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Snakes on a Train 1\execute_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Snakes on a Train 1\execute_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 60.335129 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.336593 ms
+System memory in use before: 61.2 MB.
+System memory in use after: 61.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 47.607010 ms (FindLiveObjects: 0.035950 ms CreateObjectMapping: 0.017382 ms MarkObjects: 47.538662 ms  DeleteObjects: 0.014222 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at SnapObject.Start () [0x000d2] in C:\Users\Public\Documents\Unity Projects\Snakes on a Train 1\Assets\Scripts\SnapObject.cs:55 
+ 
+(Filename: C:/Users/Public/Documents/Unity Projects/Snakes on a Train 1/Assets/Scripts/SnapObject.cs Line: 55)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: f5c -> priority: 1 
+  Thread -> id: 3c68 -> priority: 1 
